@@ -1,0 +1,6 @@
+https://www.cs.umd.edu/Outreach/hsContest01/questions/all.pdf 
+
+https://www.cs.umd.edu/Outreach/hsContest01/questions/all.html
+
+There are 8 questions to feed into chatgpt 
+        We can compare the input and output of the programs chatGPT creates
